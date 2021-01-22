@@ -1,2 +1,3 @@
 echo "Welcome to HelloWorld file"
 echo "Updating this particular file in remote master branch"
+echo "Creating conflict at local master branch"

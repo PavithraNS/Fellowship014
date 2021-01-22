@@ -1,4 +1,5 @@
 echo "Welcome to FellowShip Programming"
+echo "Welcome to the HelloWorld"
 echo "Updating this particular file in remote master branch"
 echo "Creating conflict at local master branch"
 echo "Trying to create conflict by modifying in remote master branch"
